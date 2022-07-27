@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohammedthoufeek
 - 👀 I’m interested in full stack development and coding
 - 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on anybody who is interested 😜.
+- 💞️ I’m looking to collaborate with anyone who is interested 😜.
 - 📫 How to reach me by insta or whatsapp.
 
 <!---
