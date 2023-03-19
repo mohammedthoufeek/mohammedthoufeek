@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **REACT**
 
-- 📝 I regularly write articles on [https://medium.com/@www.thoufeekabc](https://medium.com/@www.thoufeekabc)
+- 📝 I write articles on [https://medium.com/@www.thoufeekabc](https://medium.com/@www.thoufeekabc)
 
 - 💬 Ask me about **HTML, CSS, BASIC PROGRAMMING**
 
